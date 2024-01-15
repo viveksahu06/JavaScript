@@ -1,0 +1,1 @@
+console.log("hii there you can start by doing just simply things")
