@@ -26,4 +26,5 @@ let isLoggedIn = false
 console.log(typeof age)
 console.log(typeof null)
     //nulll is a object
-console.log(typeof undefined)
+console.log(typeof undefined) 
+//undefined is a tyoe of data which vailues is not defined
